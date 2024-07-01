@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-convAI portfolio-0.1";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js",
-    "Build/WebGL.data",
-    "Build/WebGL.wasm",
+    "Build/mobile webgl.loader.js",
+    "Build/mobile webgl.framework.js",
+    "Build/mobile webgl.data",
+    "Build/mobile webgl.wasm",
     "TemplateData/style.css"
 
 ];
